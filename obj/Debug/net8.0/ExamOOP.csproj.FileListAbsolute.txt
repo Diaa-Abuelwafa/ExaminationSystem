@@ -1,0 +1,14 @@
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\bin\Debug\net8.0\ExamOOP.exe
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\bin\Debug\net8.0\ExamOOP.deps.json
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\bin\Debug\net8.0\ExamOOP.runtimeconfig.json
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\bin\Debug\net8.0\ExamOOP.dll
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\bin\Debug\net8.0\ExamOOP.pdb
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\obj\Debug\net8.0\ExamOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\obj\Debug\net8.0\ExamOOP.AssemblyInfoInputs.cache
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\obj\Debug\net8.0\ExamOOP.AssemblyInfo.cs
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\obj\Debug\net8.0\ExamOOP.csproj.CoreCompileInputs.cache
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\obj\Debug\net8.0\ExamOOP.dll
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\obj\Debug\net8.0\refint\ExamOOP.dll
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\obj\Debug\net8.0\ExamOOP.pdb
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\obj\Debug\net8.0\ExamOOP.genruntimeconfig.cache
+D:\Technology\Backend\3-C# OOP\Assignments Route Solutions\ExamOOP Solution\ExamOOP\obj\Debug\net8.0\ref\ExamOOP.dll
